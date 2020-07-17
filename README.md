@@ -13,6 +13,7 @@ laravel-six-ecom is an ecommerce website made by Laravel web framework.
 
 ## Used Packages
 
+- Laravel Debugbar 
 - shopping cart
 
 
