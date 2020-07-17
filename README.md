@@ -13,7 +13,7 @@ laravel-six-ecom is an ecommerce website made by Laravel web framework.
 
 ## Used Packages
 
-- shopping cart
+- unknown
 
 
 ## Installation Process
@@ -37,7 +37,7 @@ laravel-six-ecom is an ecommerce website made by Laravel web framework.
 - create a new local branch
 - work on your local branch and push to remote
 - when a feature is ready after testing 
-- then push to remote and merge to dev
+- then push to remote and merge to dev branch
 
 
 ## License
